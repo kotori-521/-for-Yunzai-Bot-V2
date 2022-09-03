@@ -1,9 +1,9 @@
-![输入图片说明](1.jpg)
+
 #### Linux安装教程
 在lib目录下git本仓库
 
 ```
-git clone https://gitee.com/ying_Sailor_uniform/V2-js.git ./Temp
+git clone https://github.com/kotori-521/-for-Yunzai-Bot-V2.git ./Temp
 ```
 移动文件
 
