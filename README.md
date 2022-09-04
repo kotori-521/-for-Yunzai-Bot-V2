@@ -12,7 +12,7 @@ mv Temp/more-js.js example
 ```
 安装完成可以删除temp文件夹`rm -rf Temp`
 ### Windows安装教程
-下载本仓库文件，将插件文件以至lib\example内即可
+下载本仓库文件，将插件文件移至lib\example内即可
 
 #### 使用说明
 
